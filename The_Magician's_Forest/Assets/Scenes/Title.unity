@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2564,6 +2563,10 @@ MonoBehaviour:
   UpDamage_Fire: 0.3
   UpDamage_Thunder: 0.3
   UpDamage_Wind: 1
+  EffSlider: {fileID: 0}
+  BGMSlider: {fileID: 0}
+  EffVolume: 0.5
+  BGMVolume: 0.5
 --- !u!4 &1709457490
 Transform:
   m_ObjectHideFlags: 0
